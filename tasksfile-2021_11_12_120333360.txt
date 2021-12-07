@@ -1,0 +1,11 @@
+#DESCRIPTION#LDR, 001, 019, 029, 035, 049
+EDITFIELD	001	(\P{N})	2		
+EDITFIELD	001	(^)	2	ebk	
+EDITFIELD	035	(OCoLC)	0	ebk	
+EDITFIELD	019	$a	0	$aebk	
+DELETE	049		0	False	False	False	False
+DELETE	029		0	False	False	False	False
+EDITFIELD	LDR	.	2	 	17:1
+DELETE	655		0	False	False	False	False	False
+DELETE	994	LML	0	False	False	False	False	False
+DELETE	938		0	False	False	False	False	False

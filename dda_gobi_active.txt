@@ -1,0 +1,10 @@
+#DESCRIPTION#LDR, 001, 019, 029, 035, 049, 938
+EDITFIELD	035	(OCoLC)	0	ebk	
+EDITFIELD	019	$a	0	$aebk	
+DELETE	049		0	False	False	False	False
+DELETE	029		0	False	False	False	False
+buildnewfield	=938  \\$aGOBI Library Solutions$c{994$a}$i{935$a}$n{980$f}$sActive	False	False	False	True
+EDITFIELD	938	.	0		
+TASK_LIST	LDR Update	tasksfile-2020_10_29_130738463.txt
+SWAP	035		a	ebk	001			0	0	1		0	0	0
+DELETE	001	ebc	0	False	False	False	False	False

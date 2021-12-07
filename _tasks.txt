@@ -1,0 +1,19 @@
+﻿Vendor Records|Cambridge (EBA)	tasksfile-2021_11_02_092801492.txt	
+Vendor Records|EBSCO (Subscription)	tasksfile-2021_09_07_093645537.txt	
+GOBI Invoices|40s	fo_gobi_active.txt	
+GOBI Invoices|41s	dda_gobi_active.txt	
+GOBI Invoices|46s	app_gobi_active.txt	
+Vendor Records|JSTOR (Purchased)	tasksfile-2021_11_12_120333360.txt	
+Vendor Records|Knowledge Unlatched	knowledge_unlatched.txt	
+Vendor Records|ProQuest (DDA)	tasksfile-2021_11_29_135348426.txt	
+Alexander Street Press|Academic Video (Subs)	tasksfile-2021_10_20_163428722.txt	
+Alexander Street Press|Academic Video (Owned)	tasksfile-2021_10_21_092253316.txt	
+Alexander Street Press|African American Music Reference	tasksfile-2021_10_21_092525170.txt	
+Alexander Street Press|African Diaspora	tasksfile-2021_10_21_140810689.txt	
+Alexander Street Press|American History in Video	tasksfile-2021_10_21_150121435.txt	
+Alexander Street Press|American Music	tasksfile-2021_10_21_151129115.txt	
+Alexander Street Press|Border and Migration Studies	tasksfile-2021_10_26_154817488.txt	
+Vendor Records|ProQuest (Subscription)	tasksfile-2021_11_17_104415702.txt	
+Vendor Records|SpringerLink (Collection 1)	tasksfile-9217e29934b3471aba55776864181a3d.txt	
+Vendor Records|SpringerLink (Collection 2)	tasksfile-2021_11_10_145528182.txt	
+Vendor Records|Swank	swank_title_additions.txt	

@@ -1,0 +1,4 @@
+#DESCRIPTION#856$z, 001, 941
+SUBFIELD_REMOVE	856	z		107|0
+EDITFIELD	001	^	2	knu	
+ADD	941	$aFO|vKnowledge Unlatched|lunlimted	100	
